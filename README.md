@@ -1,4 +1,4 @@
-## 👋 Xin chào, mình là Vũ Thành Đạt!
+## 👋 Xin chào, mình là Nguyễn Gia Huy!
 
 Chào mừng bạn đến với trang GitHub của mình! Mình đam mê lập trình, thích khám phá công nghệ mới và xây dựng những dự án thú vị.
 
