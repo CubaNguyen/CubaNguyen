@@ -9,7 +9,7 @@ Chào mừng bạn đến với trang GitHub của mình! Mình đam mê lập t
 - 🌱 Hiện tại mình đang học: **Lập trình Web Fullstack, DevOps và Trí tuệ nhân tạo (AI)**
 - 🔭 Dự án đang làm: `Trang cá nhân`, `App quản lý`, `Dự án mã nguồn mở`
 - 💬 Có thể hỏi mình về: `JavaScript`, `React`, `Node.js`, `Python`, và `Linux`
-- 📫 Liên hệ với mình: [Email](mailto:nguyencuba300304@gmail.com) |  
+- 📫 Liên hệ với mình: [Email] nguyencuba300304@gmail.com 
 - 😄 Đại từ: Anh/Ông (He/Him)
 
 ---
