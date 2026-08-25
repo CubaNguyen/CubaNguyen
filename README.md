@@ -5,7 +5,7 @@
 - 🔭 Currently building scalable services with **Java (Spring Boot)** and **C# (.NET 8)**.
 - ⚡ Focus areas: Event-driven architecture (Kafka, RabbitMQ), CQRS, caching patterns, and high-concurrency optimization.
 - 📍 Ho Chi Minh City, Vietnam
--  📫 Email: nghuy.0304@gmail.com | [LinkedIn](https://linkedin.com)
+-  📫 Email: nghuy.0304@gmail.com | [LinkedIn](https://linkedin.com/in/nguyengiahuy-dev)
 
 ---
 
