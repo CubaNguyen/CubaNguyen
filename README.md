@@ -1,49 +1,46 @@
-## 👋 Xin chào, mình là Nguyễn Gia Huy!
+# Hi, I'm Nguyen Gia Huy 👋
 
-Chào mừng bạn đến với trang GitHub của mình! Mình đam mê lập trình, thích khám phá công nghệ mới và xây dựng những dự án thú vị.
+**Backend Engineer** specializing in distributed systems, microservices, and high-performance database architectures.
 
----
-
-### 🚀 Giới thiệu bản thân
-
-- 🌱 Hiện tại mình đang học: **Lập trình Web Fullstack, DevOps và Trí tuệ nhân tạo (AI)**
-- 🔭 Dự án đang làm: `Trang cá nhân`, `App quản lý`, `Dự án mã nguồn mở`
-- 💬 Có thể hỏi mình về: `JavaScript`, `React`, `Node.js`, `Python`, và `Linux`
-- 📫 Liên hệ với mình: [Email] nguyencuba300304@gmail.com 
-- 😄 Đại từ: Anh/Ông (He/Him)
+- 🔭 Currently building scalable services with **Java (Spring Boot)** and **C# (.NET 8)**.
+- ⚡ Focus areas: Event-driven architecture (Kafka, RabbitMQ), CQRS, caching patterns, and high-concurrency optimization.
+- 📍 Ho Chi Minh City, Vietnam
+-  📫 Email: nghuy.0304@gmail.com | [LinkedIn](https://linkedin.com)
 
 ---
 
-### 🛠️ Kỹ năng & Công nghệ
+### 🛠️ Tech Stack & Core Competencies
 
-#### Ngôn ngữ lập trình:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-#### Frameworks & Libraries:
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-
-#### Công cụ & Nền tảng:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
----
-### 📊 Thống kê GitHub
-
-![CubaNguyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CubaNguyen&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CubaNguyen&layout=compact&theme=radical)
+- **Languages & Frameworks:** Java (Spring Boot), C# (.NET 8), TypeScript (NestJS, Next.js)
+- **Databases & Caching:** PostgreSQL, MongoDB, Redis
+- **Message Brokers:** Apache Kafka, RabbitMQ
+- **Architectures & Paradigms:** Microservices, Clean Architecture, CQRS, DDD, gRPC, RESTful APIs
+- **Infrastructure & Tools:** Docker, ELK Stack, AWS S3, Linux, Git
 
 ---
 
-### ☕ Kết nối với mình
+### 🚀 Key Projects
 
-Nếu bạn muốn hợp tác, đừng ngần ngại liên hệ. Mình luôn sẵn sàng cho những cuộc trò chuyện thú vị và ý tưởng mới! 😄
+#### [Enterprise Communication Platform (Slack Clone)](https://github.com/CubaNguyen/slack-clone)
+*PoC / R&D Polyglot Microservices Architecture*
+- **Tech:** NestJS (Identity), Spring Boot (Workspace), .NET 8 (Real-time Chat), Kafka, gRPC, PostgreSQL.
+- **Highlights:** Implemented Transactional Outbox Pattern for eventual consistency, gRPC over HTTP/2 for internal service calls, and decoupled CQRS pipelines.
+
+#### [Habit Tracker Microservice System](https://github.com/CubaNguyen)
+*Event-Driven Task Processing*
+- **Tech:** Spring Boot, NestJS, RabbitMQ, PostgreSQL, Next.js, Docker.
+- **Highlights:** Asynchronous background streak calculation via RabbitMQ and SSR-based frontend built on Clean Architecture.
 
 ---
 
-_Cảm ơn bạn đã ghé thăm! Chúc một ngày tuyệt vời!_ 🌟
+### 📈 Stats
+![Gia Huy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CubaNguyen&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CubaNguyen&layout=compact&theme=tokyonight)
+```[cite: 1]
+
+---
+
+**Pinned Repositories**
+
+* Pin **`slack-clone`** as your primary showcase repository[cite: 1].
+* Ensure the repo has a detailed `README.md` containing architecture diagrams, setup instructions via `docker-compose`, and the design decisions (Transactional Outbox, gRPC, CQRS) listed in your resume[cite: 1].
